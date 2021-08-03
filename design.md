@@ -1,0 +1,3 @@
+- max 3 colours, related
+   - https://color.adobe.com/create/color-wheel
+   - https://coolors.co/
