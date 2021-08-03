@@ -1,1 +1,5 @@
-The Guerrilla (sic) Guide to Job Hunting
+- The Guerrilla (sic) Guide to Job Hunting
+- don't make me think: a common sense approach to web usability
+- Undercover User Experience: Learn How to Do Great UX Work with Tiny Budgets, No Time, and Limited Support (Voices That Matter) by Vennydd Bowles
+- https://www.reddit.com/r/web_design/wiki/principles
+- https://www.reddit.com/r/web_design/comments/vdeqv/im_a_programmer_how_can_i_make_things_that/
