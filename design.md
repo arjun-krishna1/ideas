@@ -1,3 +1,8 @@
 - max 3 colours, related
    - https://color.adobe.com/create/color-wheel
    - https://coolors.co/
+- grid system
+   - contrast, repition, alignment and proximity
+   - 
+- 100% predictable
+   - break once in a while for eye-catching
