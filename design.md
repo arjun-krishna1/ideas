@@ -6,3 +6,5 @@
    - 
 - 100% predictable
    - break once in a while for eye-catching
+- Typography is important The Element of Typographic Style
+- lots ow whitespace, make it human-readable, let it breathe
