@@ -1,4 +1,10 @@
 # ideas
+## business
+- chand: aws on the moon
+  - independent of interference from any government
+  - almost carbon neutral 
+  - cheaper (free cooling, easier to maintain)
+## projects
 - dying battery sound predictor
   - give model two sound clips
   - two images
