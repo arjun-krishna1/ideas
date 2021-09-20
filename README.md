@@ -18,3 +18,7 @@
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
   - js: JSON.parse
   - https://www.json.org/json-en.html 
+- Macro pre-processor in C
+  - reads a C file with macros
+  - finds all macros
+  - goes through file and applies macros wherever they appear  
