@@ -1,10 +1,8 @@
 # ideas
 - Why is this public?
   - I want to share my thoughts with you
-  - So that you will help me
-    - By creating an issue or pull request in this repo
-  - Want to collaborate?
-    - message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
+  - So that you will help me by creating an issue or pull request in this repo
+  - Want to collaborate? message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
 ## business
 - Books/resources on stuff I am good at
   - programming and coding interviews
