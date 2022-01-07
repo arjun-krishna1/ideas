@@ -1,4 +1,6 @@
 # ideas
+CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
+LIKE TECHSTARS: https://en.wikipedia.org/wiki/Techstars
 - Why is this public?
   - I want to share my thoughts with you
   - So that you will help me by creating an issue or pull request in this repo
