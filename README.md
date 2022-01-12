@@ -1,6 +1,7 @@
 # ideas
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
 LIKE TECHSTARS: https://en.wikipedia.org/wiki/Techstars
+START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON TECHNICAL (use automated tools to simplify)
 - Why is this public?
   - I want to share my thoughts with you
   - So that you will help me by creating an issue or pull request in this repo
