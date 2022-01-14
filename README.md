@@ -6,6 +6,7 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON TEC
   - I want to share my thoughts with you
   - So that you will help me by creating an issue or pull request in this repo
   - Want to collaborate? message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
+  - made private due to lack of interest, wanting to keep my ideas secret
 ## business
 - Books/resources on stuff I am good at
   - programming and coding interviews
