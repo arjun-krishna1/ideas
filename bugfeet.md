@@ -2,7 +2,7 @@
 - domain: "bugfeet.tech"
   - "bug/feature"
   - elevator pitch: "get feedback from your users to you with NO friction"
-  - motto/mission statement: "like to move fast and break things? fix faster with bugfeet"
+  - motto/mission statement: "like to move fast and break things? fix faster with bugfeet!"
   - landing page: coder on left side, consumers on right side
     - website in the middle
     - ladybug with platter on the back
