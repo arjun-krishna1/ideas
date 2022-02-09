@@ -27,6 +27,7 @@
 - Freemium
 - Pay for more than x paths and/or y clicks
 - Pay for us to store all the data beyond certain amount
+- Like Segement, have different tiers, show them, disabled until upgrate tier
 ## Resources
 - https://stackoverflow.com/questions/50882063/selenium-alternative-for-python-fastest-way-to-access-web-elements
 - Cypress demo video https://player.vimeo.com/video/237527670
