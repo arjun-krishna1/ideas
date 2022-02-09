@@ -1,4 +1,6 @@
 # Simulating users for end to end testing
+## Elevator Pitch
+- Set up daily end to end testing with logs and reporting with 0 lines of code
 ## MVP
 - Give your url
 - Opens your website through a proxy
@@ -16,6 +18,8 @@
 - Automated end to end testing
 ## Sprinkles
 - Record user paths
+- Mobile view/Different views
+- Turn into a kubernetes cluster, run all at once 
 - Add most common/average paths to repertoire from recording actual user paths
 - Build user profiles using the user paths and their data
   - ???
@@ -25,3 +29,5 @@
 - Pay for us to store all the data beyond certain amount
 ## Resources
 - https://stackoverflow.com/questions/50882063/selenium-alternative-for-python-fastest-way-to-access-web-elements
+- Cypress demo video https://player.vimeo.com/video/237527670
+- https://www.cypress.io/
