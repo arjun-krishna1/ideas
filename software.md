@@ -1,3 +1,6 @@
+# sqitch automatically find required migration
+- https://github.com/sqitchers/sqitch
+
 # Computer Vision User Sentiment during surveyrs
 Scot Cook, founder of Intuit customers don't always say what they truly feel in surveys, live products are hard to do remotely, etc
 https://www.khanacademy.org/college-careers-more/entrepreneurship2/interviews-entrepreneurs/copy-of-khan-academy-living-room-chats/v/scott-cook
