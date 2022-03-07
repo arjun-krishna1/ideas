@@ -8,6 +8,7 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
   - Want to collaborate? message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
   - made private due to lack of interest, wanting to keep my ideas secret
 ## business
+- click on website, records what you clicked, runs these tests on a schedule, screen record, if something goes wrong slack message with screen record, logs, etc.
 - Books/resources on stuff I am good at
   - programming and coding interviews
   - going from a coding idea to a real product (hackathons)
@@ -44,6 +45,7 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
 - https://www.reddit.com/r/startups/
   - attend some office hours to connect
 ## projects
+- curl implemented in golang
 - dying battery sound predictor
   - give model two sound clips
   - two images
