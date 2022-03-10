@@ -8,6 +8,7 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
   - Want to collaborate? message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
   - made private due to lack of interest, wanting to keep my ideas secret
 ## business
+- angellist for asia based in singapore
 - click on website, records what you clicked, runs these tests on a schedule, screen record, if something goes wrong slack message with screen record, logs, etc.
 - Books/resources on stuff I am good at
   - programming and coding interviews
