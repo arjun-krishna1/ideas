@@ -1,5 +1,5 @@
 # DPAlist
-- Streamline updating list of vendors of DPA for GDPR compliance
+- Streamline updating list of vendors of with DPA for GDPR compliance
   - DPA: Data Processing Agreement
       - https://ironcladapp.com/journal/contracts/what-is-a-data-processing-agreement-dpa/
       - https://cloud.google.com/terms/data-processing-terms
