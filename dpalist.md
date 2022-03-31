@@ -9,7 +9,7 @@
       - https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
       - https://www.twilio.com/legal/data-protection-addendum
 ## Bricks
-#### create list of vendors dashboard
+#### update list of vendors dashboard
 - add vendors we use
   - links to their dpa
   - search through our db and see if we already have it, they don't need to look for it
