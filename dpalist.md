@@ -37,3 +37,9 @@
   - create database of dpa, user can just pull from
 - expand to automating Master Service Agreement, NDA
   -  has pointers to NDA, DPA
+## Impact
+- cost $500 dollars + 2 weeks each time you want to use a new vendor per investor
+- investors need to hire a lawyer to review dpa
+- so do we
+- lawyers are slow
+- this automates the lawyer
