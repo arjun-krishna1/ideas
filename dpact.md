@@ -1,4 +1,4 @@
-# DPAct.so
+# DPAlist
 - Streamline updating list of vendors of DPA for GDPR compliance
   - DPA: Data Processing Agreement
       - https://ironcladapp.com/journal/contracts/what-is-a-data-processing-agreement-dpa/
