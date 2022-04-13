@@ -2,11 +2,9 @@
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
 LIKE TECHSTARS: https://en.wikipedia.org/wiki/Techstars
 START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRODUCTION (use automated tools to simplify)
-- Why is this public?
-  - I want to share my thoughts with you
-  - So that you will help me by creating an issue or pull request in this repo
-  - Want to collaborate? message me on [LinkedIn](https://www.linkedin.com/in/arjun-krishna-2001/) or create an issue
-  - made private due to lack of interest, wanting to keep my ideas secret
+- fellowship for IIT to get students from China, Middle East
+- create a github app to flag possible spam github merge requests, train on:
+  - https://github.com/ProseMirror/website/pull/132/files 
 ## business
 - angellist for asia based in singapore
 - click on website, records what you clicked, runs these tests on a schedule, screen record, if something goes wrong slack message with screen record, logs, etc.
