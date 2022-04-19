@@ -1,0 +1,2 @@
+- copy andreesen horowitz to india
+- lots of money, hunt for elephants
