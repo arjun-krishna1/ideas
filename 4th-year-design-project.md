@@ -1,6 +1,8 @@
 # People
 - Samuel Sun
 - Andrei Ikic
+- Stephen Wang
+- Tanish Shah
 
 # Ideas
 - oPLC
@@ -12,3 +14,29 @@
   - Takes pictures all over
   - Generates 3D ,odel
   - Use for quality assurance
+- Tebo
+  - Robotics software continuous integration platform using simulation unit + regression tests
+  - User story
+    - Rowan: Autonomous Software lead for UWaterloo self driving car
+      - Rowan is the only one on WATO who writes code for our autonomous software division
+      - Took him 2 years to get to where he is
+      - It takes him 2 weeks after writing the actual autonomous software code to actually be able to test it in simulation
+      - Goal is to allow others to create software and to be able to trust its functionallity through unit and regression tests
+      - Goal is for him to automatically be able to test his regression and unit tests before merging
+  - Bricks:
+    - Carla simulation unit testing CI/CD pipeline
+      - You write Carla scenarios
+      - We test if your code is able to pass them before every merge
+      - Used for regression testing robot arms, autonomous cars, etc.
+  - Sprinkles
+    - Generous free-tier
+    - Enterprise tier is $6,000 per month
+      - Need for greater than 100 testing scenarios
+      - We speed up your tests
+      - Parallelize?
+    - New UI for low-code, no-code creating Carla testing scenarios
+      - Kind of like the Webflow editor
+        - Three vertical tabs: visual output, visual editor, code
+          - Can edit scenario using visual editor or code
+      - Eventually add support for git and version controlling
+      - Allows less technical people to help with autonomous software
