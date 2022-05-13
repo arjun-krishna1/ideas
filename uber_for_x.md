@@ -1,6 +1,6 @@
 - uber for coding, contract software
 - design?....
-- uber for teaching
+- Drona: uber for teaching
   - rating for communication, knowledge
   - iit/jee test score
   - micro tutor sessions
