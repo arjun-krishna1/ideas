@@ -1,2 +1,3 @@
 - uber for coding, contract software
 - design?....
+- india, teaching, coaching, etc.
