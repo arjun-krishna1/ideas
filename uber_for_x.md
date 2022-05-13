@@ -6,3 +6,6 @@
   - micro tutor sessions
   - absolute freedom for teachers
 - focus on selling people on your product
+- where quality offered by one person is pretty much the same as that offered by another person
+  - hard for teaching, diff
+- fiverr for teachers?
