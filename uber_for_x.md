@@ -12,3 +12,4 @@
 - https://abovethecrowd.com/2018/04/19/the-thing-i-love-most-about-uber/
 - . Uber pays the driver their money immediately when earned. While other employers have experimented with ways to do this from time to time, or once a month — Uber allows this up to 5 times a day. 
 - What can lower-middle class people do
+- Driving with Uber reverses the way we have been trained to think about labor. Instead of making labor conform to management’s notion of a ‘job,’ Uber hands control to the worker. You do not have to make your life fit the needs of your job; you can make the job fit the needs of your life. Just how revolutionary this notion is has not, in my opinion, been adequately understood.
