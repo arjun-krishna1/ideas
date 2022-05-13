@@ -1,3 +1,8 @@
 - uber for coding, contract software
 - design?....
-- india, teaching, coaching, etc.
+- uber for teaching
+  - rating for communication, knowledge
+  - iit/jee test score
+  - micro tutor sessions
+  - absolute freedom for teachers
+- focus on selling people on your product
