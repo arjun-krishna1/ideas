@@ -9,3 +9,6 @@
 - where quality offered by one person is pretty much the same as that offered by another person
   - hard for teaching, diff
 - fiverr for teachers?
+- https://abovethecrowd.com/2018/04/19/the-thing-i-love-most-about-uber/
+- . Uber pays the driver their money immediately when earned. While other employers have experimented with ways to do this from time to time, or once a month — Uber allows this up to 5 times a day. 
+- What can lower-middle class people do
