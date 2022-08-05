@@ -8,7 +8,12 @@
   - can give it a time and it will run it then
 - https://github.com/samuelcolvin/arq
 - from first principles
+## business
+- lifting form in VR
+  - see your own self
+- leetcode for iit
 
+## Rambling
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
 LIKE TECHSTARS: https://en.wikipedia.org/wiki/Techstars
 START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRODUCTION (use automated tools to simplify)
