@@ -1,6 +1,11 @@
 # ideas
 ## technical project ideas
 - make my own asynchronous job runner/queues in javascript
+  - simple node js
+  - give a callback function into the runenr queue
+  - will run it when idle
+    - exponential backoff, etc
+  - can give it a time and it will run it then
 - https://github.com/samuelcolvin/arq
 - from first principles
 
