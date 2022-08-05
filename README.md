@@ -1,4 +1,9 @@
 # ideas
+## technical project ideas
+- make my own asynchronous job runner/queues in javascript
+- https://github.com/samuelcolvin/arq
+- from first principles
+
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
 LIKE TECHSTARS: https://en.wikipedia.org/wiki/Techstars
 START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRODUCTION (use automated tools to simplify)
