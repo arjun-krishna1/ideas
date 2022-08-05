@@ -11,6 +11,8 @@
 ## business
 - lifting form in VR
   - see your own self
+- fitness vr
+  - burpees, pushups, squats, situps
 - leetcode for iit
 
 ## Rambling
