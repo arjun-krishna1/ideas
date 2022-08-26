@@ -9,6 +9,7 @@
 - https://github.com/samuelcolvin/arq
 - from first principles
 ## business
+- coding bootcamp in india
 - lifting form in VR
   - see your own self
 - fitness vr
