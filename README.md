@@ -15,6 +15,8 @@
 - fitness vr
   - burpees, pushups, squats, situps
 - leetcode for iit
+- Splits Sex Chocolate
+-> Copy Tabs Sex Chocolate playbook in India
 
 ## Rambling
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
