@@ -15,8 +15,12 @@
 - fitness vr
   - burpees, pushups, squats, situps
 - leetcode for iit
-- Splits Sex Chocolate
--> Copy Tabs Sex Chocolate playbook in India
+- Kama Split Sex Chocolate
+  - Copy Tabs Sex Chocolate playbook in India
+  - High-end aphrodisiac chocolate branding
+  - Direct to consumer
+  - Viral marketing, user gneerated content, influencer marketing
+  - Copy this playbook: https://open.spotify.com/episode/0tHVn8dYz8wrFATI9VqiQa?si=zabDljjdTqWINWMo1NOOzA
 
 ## Rambling
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
