@@ -26,6 +26,7 @@
     - https://flaunt.com/blog/kazumi
   - Find which videos went viral for Tabs and replicate
   - Also have an American shop
+  - Emphasis on profitability from day 1
   - Copy this playbook: https://open.spotify.com/episode/0tHVn8dYz8wrFATI9VqiQa?si=zabDljjdTqWINWMo1NOOzA
 
 ## Rambling
