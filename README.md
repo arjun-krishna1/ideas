@@ -17,9 +17,14 @@
 - leetcode for iit
 - Kama Split Sex Chocolate
   - Copy Tabs Sex Chocolate playbook in India
+  - Spicy Chocolate
+  - Herbal, Aphrodisiacs: Shatavari, Nutmeg, Gokshura, Kaunch, Saffron, Safed Musli
   - High-end aphrodisiac chocolate branding
   - Direct to consumer
-  - Viral marketing, user gneerated content, influencer marketing
+  - Viral marketing, user generated content, influencer marketing
+  - Controversial, polished billboard marketing
+  - Find which videos went viral for Tabs and replicate
+  - Also have an American shop
   - Copy this playbook: https://open.spotify.com/episode/0tHVn8dYz8wrFATI9VqiQa?si=zabDljjdTqWINWMo1NOOzA
 
 ## Rambling
