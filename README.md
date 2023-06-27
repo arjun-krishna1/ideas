@@ -22,6 +22,8 @@
   - High-end aphrodisiac chocolate branding
   - Direct to consumer
   - Viral marketing, user generated content, influencer marketing
+  - Start off with just a landing page and viral marketing campaign
+    - Scarcity,'Sold Out', pre-order next batch
   - Controversial, polished billboard marketing
     - https://flaunt.com/blog/kazumi
   - Find which videos went viral for Tabs and replicate
