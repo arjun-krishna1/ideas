@@ -18,7 +18,7 @@
 - Kama Split Sex Chocolate
   - Copy Tabs Sex Chocolate playbook in India
   - Spicy Chocolate
-  - Herbal, Aphrodisiacs: Shatavari, Nutmeg, Gokshura, Kaunch, Saffron, Safed Musli
+  - Herbal Aphrodisiacs: Shatavari, Nutmeg, Gokshura, Kaunch, Saffron, Safed Musli
   - High-end aphrodisiac chocolate branding
   - Direct to consumer
   - Viral marketing, user generated content, influencer marketing
