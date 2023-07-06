@@ -30,6 +30,12 @@
   - Also have an American shop
   - Emphasis on profitability from day 1
   - Copy this playbook: https://open.spotify.com/episode/0tHVn8dYz8wrFATI9VqiQa?si=zabDljjdTqWINWMo1NOOzA
+  - https://wero.co.in/contract-manufature/
+  - https://www.exportersindia.com/vec-chocolate-machines/chocolate-manufacturing-facility-for-private-labeling-hyderabad-india-1821935.htm
+  - [http://www.makson-group.com/about/history](http://www.makson-group.com/contract-manufacturing)
+  - https://www.swansweets.com/private-label-contract-manufacturing.html
+  - https://www.ambriona.com/pages/contract-manufacturing
+  - https://wero.co.in/contract-manufature/
 
 ## Rambling
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
