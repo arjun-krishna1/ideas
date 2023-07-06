@@ -36,6 +36,12 @@
   - https://www.swansweets.com/private-label-contract-manufacturing.html
   - https://www.ambriona.com/pages/contract-manufacturing
   - https://wero.co.in/contract-manufature/
+  - https://inc42.com/features/d2c-brands-that-are-disrupting-indias-consumer-market/
+  - https://www.clickpost.ai/blog/top-d2c-startups-india
+  - https://www.customfit.ai/blog/uncovering-indias-top-100-d2c-brands-what-you-need-to-know
+  - https://www.sutrahr.com/top-d2c-brands-in-india/
+  - https://boldfit.in/
+  - https://drvaidyas.com/
 
 ## Rambling
 CREATE AN ACCELERATOR IN KOLKATA/KHARAGPUR
