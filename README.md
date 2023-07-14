@@ -9,6 +9,7 @@
 - https://github.com/samuelcolvin/arq
 - from first principles
 ## business
+- natural gas refining from co2 in air, nuclear fusion company in india
 - coding bootcamp in india
 - lifting form in VR
   - see your own self
