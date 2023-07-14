@@ -9,7 +9,7 @@
 - https://github.com/samuelcolvin/arq
 - from first principles
 ## business
-- natural gas refining from co2 in air, nuclear fusion company in india
+- natural gas refining from co2 in air, nuclear fusion company, solar panel manufacturing in india: Krishna Energy
 - coding bootcamp in india
 - lifting form in VR
   - see your own self
