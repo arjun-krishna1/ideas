@@ -109,4 +109,9 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
 - Macro pre-processor in C
   - reads a C file with macros
   - finds all macros
-  - goes through file and applies macros wherever they appear  
+  - goes through file and applies macros wherever they appear
+  - 
+## society
+- scholarship for female bangladeshi grad students to study in India
+- birthright trip for people of Indian descent to India based on Jewish birthright trip
+  - "free ten-day heritage trip to Israel, Jerusalem, and the Golan Heights for young adults of Jewish heritage between the ages of 18 and 26.[1][2][3] The program is sponsored by the Birthright Israel Foundation, whose donors subsidizes participation. Taglit is the Hebrew word for 'discovery'. During their trip, participants, most of whom are visiting Israel for the first time, are encouraged to discover new meaning in their personal Jewish identity and connection to Jewish history and culture."
