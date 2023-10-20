@@ -53,6 +53,7 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
 - create a github app to flag possible spam github merge requests, train on:
   - https://github.com/ProseMirror/website/pull/132/files 
 ## business
+- beyond meat manufactured and marketed in india
 - redis syntax interface for postgres
 - angellist for asia based in singapore
 - click on website, records what you clicked, runs these tests on a schedule, screen record, if something goes wrong slack message with screen record, logs, etc.
