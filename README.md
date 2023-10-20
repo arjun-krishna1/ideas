@@ -9,6 +9,7 @@
 - https://github.com/samuelcolvin/arq
 - from first principles
 ## business
+- tesla solar panel and home battery pack manufactured in india, price point anyone can buy it. have a network effect built in of some sort
 - synthetic womb
 - natural gas refining from co2 in air, nuclear fusion company, solar panel manufacturing in india: Krishna Energy
 - coding bootcamp in india
