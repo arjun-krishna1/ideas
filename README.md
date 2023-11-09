@@ -112,7 +112,9 @@ START A PODCAST TO MEET NEW INTERESTING PEOPLE, DON'T SPEND TOO MUCH TIME ON PRO
   - reads a C file with macros
   - finds all macros
   - goes through file and applies macros wherever they appear
-  - 
+- livegenerative ai funhouse mirror
+    - a large mirror shaped screen with a camera
+    - people are turned into demons/lizard people in the camera
 ## society
 - scholarship for female bangladeshi grad students to study in India
 - birthright trip for people of Indian descent to India based on Jewish birthright trip
