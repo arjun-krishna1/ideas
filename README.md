@@ -1,4 +1,5 @@
 # ideas
+- Super Smash Bros with guns: https://news.ycombinator.com/item?id=39109667
 ## technical project ideas
 - make my own asynchronous job runner/queues in javascript
   - simple node js
