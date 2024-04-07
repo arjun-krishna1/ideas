@@ -1,4 +1,7 @@
 # ideas
+- Turn octopus v2 from stanford into an AI first operating system https://arxiv.org/html/2404.01744v1
+- https://github.com/arjun-krishna1/keerky/ 
+- https://twitter.com/adcock_brett/status/1777004297143603322
 - Super Smash Bros with guns: https://news.ycombinator.com/item?id=39109667
 ## technical project ideas
 - make my own asynchronous job runner/queues in javascript
