@@ -3,6 +3,12 @@
 - https://github.com/arjun-krishna1/keerky/ 
 - https://twitter.com/adcock_brett/status/1777004297143603322
 - Super Smash Bros with guns: https://news.ycombinator.com/item?id=39109667
+- A TikTok channel that just debates trending topics over footage of Minecrat/Call of Duty
+  - Use claude for text generation, ElevenLabs for voice
+  - see what the trending topics are in each day
+  - Use a library of 100 different video files, use a different one each time
+  - generate 10 vides a day
+  - do 200 videos
 ## technical project ideas
 - make my own asynchronous job runner/queues in javascript
   - simple node js
