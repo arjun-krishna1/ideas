@@ -1,4 +1,5 @@
 # ideas
+- Build a bot to beat: https://www.capitalismlab.com/
 - Turn octopus v2 from stanford into an AI first operating system https://arxiv.org/html/2404.01744v1
 - https://github.com/arjun-krishna1/keerky/ 
 - https://twitter.com/adcock_brett/status/1777004297143603322
